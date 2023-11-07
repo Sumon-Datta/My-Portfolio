@@ -1,0 +1,18 @@
+/* @media (max-width: 1300px) {
+    .navLink{
+        display: block;
+    }
+    .smallDevice{
+        display: none ;
+    }
+    
+  }
+
+  @media (max-width: 600px) {
+    .navLink{
+        display: none;
+    }
+    .smallDevice{
+        display: block ;
+    }
+  } */
